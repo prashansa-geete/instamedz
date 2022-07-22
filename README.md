@@ -1,0 +1,2 @@
+# instamedz
+Website for Instamedz
